@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1649081400 source:c:\estudo de linguagem de programação\estudos-testes\main.c
+	<stdlib.h>
+
+1649119236 source:c:\estudo de linguagem de programação\estudos-testes\exercicio2.c
+	<stdlib.h>
+
+1649121464 source:c:\estudo de linguagem de programação\estudos-testes\exercicio3.c
+	<stdlib.h>
+
+1649122279 source:c:\estudo de linguagem de programação\estudos-testes\exercicio4.c
+	<stdlib.h>
+
+1651585708 source:c:\estudo de linguagem de programação\estudos-testes\exercicio5.c
+	<stdio.h>
+	<stdlib.h>
+
+1651582956 source:c:\estudo de linguagem de programação\estudos-testes\exercicio6.c
+	<locale.h>
+
